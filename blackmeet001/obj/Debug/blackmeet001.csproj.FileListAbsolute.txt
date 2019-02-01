@@ -1,0 +1,7 @@
+C:\blackmeet\blackmeet001\bin\Debug\blackmeet001.exe.config
+C:\blackmeet\blackmeet001\bin\Debug\blackmeet001.exe
+C:\blackmeet\blackmeet001\bin\Debug\blackmeet001.pdb
+C:\blackmeet\blackmeet001\obj\Debug\blackmeet001.csprojAssemblyReference.cache
+C:\blackmeet\blackmeet001\obj\Debug\blackmeet001.csproj.CoreCompileInputs.cache
+C:\blackmeet\blackmeet001\obj\Debug\blackmeet001.exe
+C:\blackmeet\blackmeet001\obj\Debug\blackmeet001.pdb
